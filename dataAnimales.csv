@@ -1,0 +1,722 @@
+Species,Province/State,Price,Number of days,Day price,S Rank,Status,Classification,Avg Mass,SCI,Latitude
+Mountain Lion,Alberta,15930,10,1593,S4,4,Carnivore,60.4,Y,54.5
+Mountain Lion,Alberta,9500,10,950,S4,4,Carnivore,60.4,Y,54.5
+Mountain Lion,Alberta,10000,10,1000,S4,4,Carnivore,60.4,Y,54.5
+Mountain Lion,Alberta,12500,10,1250,S4,4,Carnivore,60.4,Y,54.5
+Mountain Lion,Arizona,5000,5,1000,S4,4,Carnivore,60.4,Y,34.1661
+Mountain Lion,Arizona,7500,7,1071,S4,4,Carnivore,60.4,Y,34.1661
+Mountain Lion,Arizona,4000,7,571,S4,4,Carnivore,60.4,Y,34.1661
+Mountain Lion,Arizona,5000,6,833,S4,4,Carnivore,60.4,Y,34.1661
+Mountain Lion,Arizona,4500,5,900,S4,4,Carnivore,60.4,Y,34.1661
+Mountain Lion,Arizona,6500,6,1083,S4,4,Carnivore,60.4,Y,34.1661
+Mountain Lion,Arizona,4500,5,900,S4,4,Carnivore,60.4,Y,34.1661
+Mountain Lion,British Columbia,8000,7,1143,S4,4,Carnivore,60.4,Y,54.149015
+Mountain Lion,British Columbia,7500,6,1250,S4,4,Carnivore,60.4,Y,54.149015
+Mountain Lion,British Columbia,9900,7,1414,S4,4,Carnivore,60.4,Y,54.149015
+Mountain Lion,British Columbia,9500,8,1188,S4,4,Carnivore,60.4,Y,54.149015
+Mountain Lion,British Columbia,10000,6,1667,S4,4,Carnivore,60.4,Y,54.149015
+Mountain Lion,Colorado,6000,5,1200,S4,4,Carnivore,60.4,Y,38.99625
+Mountain Lion,Colorado,4500,6,750,S4,4,Carnivore,60.4,Y,38.99625
+Mountain Lion,Colorado,7180,6,1197,S4,4,Carnivore,60.4,Y,38.99625
+Mountain Lion,Colorado,4500,5,900,S4,4,Carnivore,60.4,Y,38.99625
+Mountain Lion,Colorado,5600,5,1120,S4,4,Carnivore,60.4,Y,38.99625
+Mountain Lion,Idaho,7000,8,875,S5,5,Carnivore,60.4,Y,45.5
+Mountain Lion,Idaho,6300,7,900,S5,5,Carnivore,60.4,Y,45.5
+Mountain Lion,Idaho,5800,7,829,S5,5,Carnivore,60.4,Y,45.5
+Mountain Lion,Idaho,4800,8,600,S5,5,Carnivore,60.4,Y,45.5
+Mountain Lion,Idaho,5200,7,743,S5,5,Carnivore,60.4,Y,45.5
+Mountain Lion,Montana,6500,7,929,S4,4,Carnivore,60.4,Y,46.6843885
+Mountain Lion,Montana,7500,5,1500,S4,4,Carnivore,60.4,Y,46.6843885
+Mountain Lion,Montana,5200,8,650,S4,4,Carnivore,60.4,Y,46.6843885
+Mountain Lion,Montana,5750,7,821,S4,4,Carnivore,60.4,Y,46.6843885
+Mountain Lion,Montana,3500,3,1167,S4,4,Carnivore,60.4,Y,46.6843885
+Mountain Lion,Montana,5200,6,867,S4,4,Carnivore,60.4,Y,46.6843885
+Mountain Lion,Montana,5500,7,786,S4,4,Carnivore,60.4,Y,46.6843885
+Mountain Lion,Nevada,6500,5,1300,S5,5,Carnivore,60.4,Y,38.5035905
+Mountain Lion,Nevada,4500,5,900,S5,5,Carnivore,60.4,Y,38.5035905
+Mountain Lion,Nevada,6000,7,857,S5,5,Carnivore,60.4,Y,38.5035905
+Mountain Lion,Nevada,5500,6,917,S5,5,Carnivore,60.4,Y,38.5035905
+Mountain Lion,Nevada,3850,5,770,S5,5,Carnivore,60.4,Y,38.5035905
+Mountain Lion,New Mexico,6000,5,1200,S3,3,Carnivore,60.4,Y,34.1669615
+Mountain Lion,New Mexico,5500,5,1100,S3,3,Carnivore,60.4,Y,34.1669615
+Mountain Lion,New Mexico,5500,5,1100,S3,3,Carnivore,60.4,Y,34.1669615
+Mountain Lion,New Mexico,5416,5,1083,S3,3,Carnivore,60.4,Y,34.1669615
+Mountain Lion,New Mexico,6000,10,600,S3,3,Carnivore,60.4,Y,34.1669615
+Mountain Lion,New Mexico,4500,5,900,S3,3,Carnivore,60.4,Y,34.1669615
+Mountain Lion,Utah,4500,5,900,S4,4,Carnivore,60.4,Y,39.5
+Mountain Lion,Utah,5500,5,1100,S4,4,Carnivore,60.4,Y,39.5
+Mountain Lion,Utah,5500,5,1100,S4,4,Carnivore,60.4,Y,39.5
+Mountain Lion,Utah,5250,5,1050,S4,4,Carnivore,60.4,Y,39.5
+Mountain Lion,Utah,3400,5,680,S4,4,Carnivore,60.4,Y,39.5
+Mountain Lion,Wyoming,5000,6,833,S4,4,Carnivore,60.4,Y,43
+Mountain Lion,Wyoming,6000,5,1200,S4,4,Carnivore,60.4,Y,43
+Mountain Lion,Wyoming,6500,7,929,S4,4,Carnivore,60.4,Y,43
+Mountain Lion,Wyoming,5000,5,1000,S4,4,Carnivore,60.4,Y,43
+Mountain Lion,Wyoming,5495,5,1099,S4,4,Carnivore,60.4,Y,43
+Mountain Lion,Wyoming,6372,7,910,S4,4,Carnivore,60.4,Y,43
+Black Bear,Arizona,3500,5,700,S5,5,Carnivore,200,N,34.1661
+Black Bear,Arizona,3800,5,760,S5,5,Carnivore,200,N,34.1661
+Black Bear,Arizona,4950,5,990,S5,5,Carnivore,200,N,34.1661
+Black Bear,Arizona,4000,5,800,S5,5,Carnivore,200,N,34.1661
+Black Bear,Arizona,3000,5,600,S5,5,Carnivore,200,N,34.1661
+Black Bear,British Columbia,4500,5.6,804,S5,5,Carnivore,200,N,54.149015
+Black Bear,British Columbia,3950,6,658,S5,5,Carnivore,200,N,54.149015
+Black Bear,British Columbia,4250,7,607,S5,5,Carnivore,200,N,54.149015
+Black Bear,British Columbia,4500,5,900,S5,5,Carnivore,200,N,54.149015
+Black Bear,British Columbia,4950,5,990,S5,5,Carnivore,200,N,54.149015
+Black Bear,British Columbia,2950,5,590,S5,5,Carnivore,200,N,54.149015
+Black Bear,California,2400,5,480,,,Carnivore,200,N,37.2673795
+Black Bear,Colorado,1500,3,500,S5,5,Carnivore,200,N,38.99625
+Black Bear,Colorado,3500,5,700,S5,5,Carnivore,200,N,38.99625
+Black Bear,Colorado,3500,5,700,S5,5,Carnivore,200,N,38.99625
+Black Bear,Colorado,5000,5,1000,S5,5,Carnivore,200,N,38.99625
+Black Bear,Colorado,4000,4,1000,S5,5,Carnivore,200,N,38.99625
+Black Bear,Georgia,1500,3,500,S4,4,Carnivore,200,N,32.6784
+Black Bear,Georgia,1750,3,583,S4,4,Carnivore,200,N,32.6784
+Black Bear,Montana,3100,5,620,S5,5,Carnivore,200,N,46.6843885
+Black Bear,Montana,2800,5,560,S5,5,Carnivore,200,N,46.6843885
+Black Bear,Montana,4500,5,900,S5,5,Carnivore,200,N,46.6843885
+Black Bear,Montana,3800,6,633,S5,5,Carnivore,200,N,46.6843885
+Black Bear,Montana,2875,6,479,S5,5,Carnivore,200,N,46.6843885
+Black Bear,New Mexico,4078,5,816,S4,4,Carnivore,200,N,34.1669615
+Black Bear,New Mexico,3823,4,956,S4,4,Carnivore,200,N,34.1669615
+Black Bear,New Mexico,3300,5,660,S4,4,Carnivore,200,N,34.1669615
+Black Bear,New Mexico,5416,5,1083,S4,4,Carnivore,200,N,34.1669615
+Black Bear,New Mexico,3250,5,650,S4,4,Carnivore,200,N,34.1669615
+Black Bear,New York,1000,5,200,S5,5,Carnivore,200,N,42.755
+Black Bear,North Carolina,2750,3,917,S4,4,Carnivore,200,N,35.212865
+Black Bear,North Carolina,2000,2,1000,S4,4,Carnivore,200,N,35.212865
+Black Bear,North Carolina,2500,4,625,S4,4,Carnivore,200,N,35.212865
+Black Bear,North Carolina,2500,5,500,S4,4,Carnivore,200,N,35.212865
+Black Bear,North Carolina,2100,5,420,S4,4,Carnivore,200,N,35.212865
+Black Bear,Oklahoma,2000,3,667,S1,1,Carnivore,200,N,35.307778
+Black Bear,Oregon,2495,7,356,S4,4,Carnivore,200,N,44.145855
+Black Bear,Oregon,3650,5,730,S4,4,Carnivore,200,N,44.145855
+Black Bear,Pennsylvania,900,3,300,S5,5,Carnivore,200,N,41.1098235
+Black Bear,Pennsylvania,1675,3,558,S5,5,Carnivore,200,N,41.1098235
+Black Bear,Vermont,3250,5,650,S5,5,Carnivore,200,N,43.8692575
+Black Bear,Vermont,3500,5,700,S5,5,Carnivore,200,N,43.8692575
+Black Bear,Virginia,3500,5,700,S4,4,Carnivore,200,N,38.003375
+Black Bear,Washington,2150,5,430,S5,5,Carnivore,200,N,47.275
+Black Bear,Washington,4550,5,910,S5,5,Carnivore,200,N,47.275
+Black Bear,Washington,2750,5,550,S5,5,Carnivore,200,N,47.275
+Black Bear,Washington,2750,5,550,S5,5,Carnivore,200,N,47.275
+Black Bear,Washington,2995,6,499,S5,5,Carnivore,200,N,47.275
+Black Bear,Yukon,16000,12,1333,S5,5,Carnivore,200,N,64.8075965
+Brown Bear,Alaska,25000,12,2083,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,18500,14,1321,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,15900,12,1325,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,12750,10,1275,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,22000,10,2200,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,26500,14,1893,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,28750,16,1797,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,24000,7,3429,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,19750,10,1975,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,23250,12,1938,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,14000,9,1556,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,12750,11,1159,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,12500,10,1250,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,19500,10,1950,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,15500,10,1550,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,Alaska,15250,10,1525,S4,4,Carnivore,343.75,Y,61.3009
+Brown Bear,British Columbia,18000,12,1500,S3,3,Carnivore,343.75,Y,54.149015
+Brown Bear,British Columbia,16500,10.4,1587,S3,3,Carnivore,343.75,Y,54.149015
+Brown Bear,British Columbia,16950,10,1695,S3,3,Carnivore,343.75,Y,54.149015
+Brown Bear,British Columbia,17950,10,1795,S3,3,Carnivore,343.75,Y,54.149015
+Brown Bear,British Columbia,14000,10,1400,S3,3,Carnivore,343.75,Y,54.149015
+Brown Bear,British Columbia,15000,10,1500,S3,3,Carnivore,343.75,Y,54.149015
+Brown Bear,Nunavut,15500,10,1550,S3S4,3.5,Carnivore,343.75,Y,67.3534075
+Brown Bear,Yukon,22000,10,2200,S3,3,Carnivore,343.75,Y,64.8075965
+Brown Bear,Yukon,28500,10,2850,S3,3,Carnivore,343.75,Y,64.8075965
+Brown Bear,Yukon,21500,10,2150,S3,3,Carnivore,343.75,Y,64.8075965
+Brown Bear,Yukon,14350,10,1435,S3,3,Carnivore,343.75,Y,64.8075965
+Brown Bear,Yukon,19450,10,1945,S3,3,Carnivore,343.75,Y,64.8075965
+Polar Bear,Nunavut,43950,10,4395,S3,3,Carnivore,405,Y,69.3764755
+Polar Bear,Nunavut,40850,10,4085,S3,3,Carnivore,405,Y,69.3764755
+Polar Bear,Nunavut,46950,10,4695,S3,3,Carnivore,405,Y,67.3534075
+Polar Bear,Nunavut,49950,10,4995,S3,3,Carnivore,405,Y,67.3534075
+Polar Bear,Northwest Territories,35000,14,2500,S3,3,Carnivore,405,Y,67.3534075
+Polar Bear,Northwest Territories,24500,10,2450,S3,3,Carnivore,405,Y,67.3534075
+Muskox,Nunavut,9450,6,1575,S4,4,Ungulate,340,N,69.3764755
+Muskox,Nunavut,11771,7,1682,S4,4,Ungulate,340,N,69.3764755
+Muskox,Nunavut,8950,6,1492,S4,4,Ungulate,340,N,69.3764755
+Muskox,Nunavut,8650,5,1730,S4,4,Ungulate,340,N,69.3764755
+Muskox,Nunavut,8450,5,1690,S4,4,Ungulate,340,N,67.3534075
+Muskox,Northwest Territories,8900,5,1780,S5,5,Ungulate,340,N,67.3534075
+Muskox,Northwest Territories,7500,5,1500,S5,5,Ungulate,340,N,67.3534075
+Muskox,Northwest Territories,7500,4,1875,S5,5,Ungulate,340,N,67.3534075
+Muskox,Northwest Territories,7500,5,1500,S5,5,Ungulate,340,N,67.3534075
+Gray Wolf,Alaska,5500,9,611,S4,4,Carnivore,45,Y,61.3009
+Gray Wolf,Alaska,4250,9,472,S4,4,Carnivore,45,Y,61.3009
+Gray Wolf,Idaho,2500,5,500,S3,3,Carnivore,45,Y,45.5
+Gray Wolf,Idaho,3500,4,875,S3,3,Carnivore,45,Y,45.5
+Gray Wolf,Idaho,3800,7,543,S3,3,Carnivore,45,Y,45.5
+Gray Wolf,Idaho,2800,4,700,S3,3,Carnivore,45,Y,45.5
+Gray Wolf,Idaho,3400,5,680,S3,3,Carnivore,45,Y,45.5
+Gray Wolf,Montana,3800,5,760,S4,4,Carnivore,45,Y,46.6843885
+Gray Wolf,Montana,5200,6,867,S4,4,Carnivore,45,Y,46.6843885
+Gray Wolf,Montana,4843,6,807,S4,4,Carnivore,45,Y,46.6843885
+Gray Wolf,Montana,1500,3,500,S4,4,Carnivore,45,Y,46.6843885
+Gray Wolf,Montana,3755,5,751,S4,4,Carnivore,45,Y,46.6843885
+Gray Wolf,Northwest Territories,7500,8,938,S5,5,Carnivore,45,Y,69.3764755
+Gray Wolf,Northwest Territories,5250,12,438,S5,5,Carnivore,45,Y,69.3764755
+Gray Wolf,Northwest Territories,8284,10,828,S5,5,Carnivore,45,Y,69.3764755
+Gray Wolf,Northwest Territories,8284,10,828,S5,5,Carnivore,45,Y,69.3764755
+Gray Wolf,Nunavut,4795,5,959,S5,5,Carnivore,45,Y,67.3534075
+Gray Wolf,Nunavut,7000,6,1167,S5,5,Carnivore,45,Y,67.3534075
+Thinhorn Sheep,Alaska,16900,12,1408,S5,5,Ungulate,86.28,Y,61.3009
+Thinhorn Sheep,Alaska,15250,10,1525,S5,5,Ungulate,86.28,Y,61.3009
+Thinhorn Sheep,Alaska,18750,11,1705,S5,5,Ungulate,86.28,Y,61.3009
+Thinhorn Sheep,Alaska,18250,11,1659,S5,5,Ungulate,86.28,Y,61.3009
+Thinhorn Sheep,Alaska,14450,10,1445,S5,5,Ungulate,86.28,Y,61.3009
+Thinhorn Sheep,Northwest Territories,24000,10,2400,S4,4,Ungulate,86.28,Y,54.149015
+Thinhorn Sheep,Northwest Territories,21683,10,2168,S4,4,Ungulate,86.28,Y,54.149015
+Thinhorn Sheep,Northwest Territories,23500,10,2350,S4,4,Ungulate,86.28,Y,54.149015
+Thinhorn Sheep,Northwest Territories,25000,10,2500,S4,4,Ungulate,86.28,Y,54.149015
+Thinhorn Sheep,Northwest Territories,23550,10,2355,S4,4,Ungulate,86.28,Y,54.149015
+Thinhorn Sheep,Yukon,20000,12,1667,S4,4,Ungulate,86.28,Y,69.3764755
+Thinhorn Sheep,Yukon,19500,11,1773,S4,4,Ungulate,86.28,Y,69.3764755
+Thinhorn Sheep,Yukon,23000,10,2300,S4,4,Ungulate,86.28,Y,69.3764755
+Thinhorn Sheep,Yukon,28500,10,2850,S4,4,Ungulate,86.28,Y,69.3764755
+Thinhorn Sheep,Yukon,23600,10.75,2195,S4,4,Ungulate,86.28,Y,69.3764755
+Thinhorn Sheep,British Columbia,42500,14,3036,S4,4,Ungulate,86.28,Y,64.8075965
+Thinhorn Sheep,British Columbia,39950,13,3073,S4,4,Ungulate,86.28,Y,64.8075965
+Thinhorn Sheep,British Columbia,48000,14,3429,S4,4,Ungulate,86.28,Y,64.8075965
+Thinhorn Sheep,British Columbia,31950,10,3195,S4,4,Ungulate,86.28,Y,64.8075965
+Thinhorn Sheep,British Columbia,42500,14,3036,S4,4,Ungulate,86.28,Y,64.8075965
+Thinhorn Sheep,Yukon,44500,14,3179,S5,5,Ungulate,86.28,Y,64.8075965
+Thinhorn Sheep,Yukon,34000,12,2833,S5 ,5,Ungulate,86.28,Y,64.8075965
+Mountain Goat,Alaska,7250,7,1036,S4,4,Ungulate,90.61,Y,61.3009
+Mountain Goat,Alaska,9500,7,1357,S4,4,Ungulate,90.61,Y,61.3009
+Mountain Goat,Alaska,10000,7,1429,S4,4,Ungulate,90.61,Y,61.3009
+Mountain Goat,Alaska,12950,7,1850,S4,4,Ungulate,90.61,Y,61.3009
+Mountain Goat,Alaska,7900,7,1129,S4,4,Ungulate,90.61,Y,61.3009
+Mountain Goat,British Columbia,14000,9,1556,S4,4,Ungulate,90.61,Y,54.149015
+Mountain Goat,British Columbia,10950,10,1095,S4,4,Ungulate,90.61,Y,54.149015
+Mountain Goat,British Columbia,7900,9.75,810,S4,4,Ungulate,90.61,Y,54.149015
+Mountain Goat,British Columbia,13381,10,1338,S4,4,Ungulate,90.61,Y,54.149015
+Mountain Goat,British Columbia,7925,10,793,S4,4,Ungulate,90.61,Y,54.149015
+Mountain Goat,Colorado,4500,5,900,,,Ungulate,90.61,Y,38.99625
+Mountain Goat,Colorado,3500,4,875,,,Ungulate,90.61,Y,38.99625
+Mountain Goat,Colorado,4500,4,1125,,,Ungulate,90.61,Y,38.99625
+Mountain Goat,Colorado,4000,5,800,,,Ungulate,90.61,Y,38.99625
+Mountain Goat,Colorado,5500,6,917,,,Ungulate,90.61,Y,38.99625
+Mountain Goat,Idaho,5500,6,917,S2,2,Ungulate,90.61,Y,45.5
+Mountain Goat,Idaho,6000,6,1000,S2,2,Ungulate,90.61,Y,45.5
+Mountain Goat,Idaho,7500,8,938,S2,2,Ungulate,90.61,Y,45.5
+Mountain Goat,Idaho,4750,4,1188,S2,2,Ungulate,90.61,Y,45.5
+Mountain Goat,Montana,5000,5,1000,S4,4,Ungulate,90.61,Y,46.6843885
+Mountain Goat,Montana,6000,6,1000,S4,4,Ungulate,90.61,Y,46.6843885
+Mountain Goat,Montana,4500,5.25,857,S4,4,Ungulate,90.61,Y,46.6843885
+Mountain Goat,Montana,4500,5,900,S4,4,Ungulate,90.61,Y,46.6843885
+Mountain Goat,Montana,4400,5,880,S4,4,Ungulate,90.61,Y,46.6843885
+Mountain Goat,Northwest Territories,12650,7,1807,S2,2,Ungulate,90.61,Y,69.3764755
+Mountain Goat,Northwest Territories,8150,7,1164,S2,2,Ungulate,90.61,Y,69.3764755
+Mountain Goat,Utah,3000,5,600,,,Ungulate,90.61,Y,39.5
+Mountain Goat,Utah,5500,5,1100,,,Ungulate,90.61,Y,39.5
+Mountain Goat,Utah,8284,9,920,,,Ungulate,90.61,Y,39.5
+Mountain Goat,Utah,6500,5,1300,,,Ungulate,90.61,Y,39.5
+Mountain Goat,Utah,4750,7,679,,,Ungulate,90.61,Y,39.5
+Mountain Goat,Wyoming,7000,10,700,,,Ungulate,90.61,Y,43
+Mountain Goat,Wyoming,5000,7,714,,,Ungulate,90.61,Y,43
+Mountain Goat,Wyoming,8000,7.75,1032,,,Ungulate,90.61,Y,43
+Mountain Goat,Wyoming,6500,7,929,,,Ungulate,90.61,Y,43
+Mountain Goat,Wyoming,6000,7,857,,,Ungulate,90.61,Y,43
+Mountain Goat,Yukon,15600,10.86,1436,S3,3,Ungulate,90.61,Y,64.8075965
+Bighorn Sheep,Alberta,57348,15,3823,S4,4,Ungulate,94.67,Y,54.5
+Bighorn Sheep,Alberta,55000,14,3929,S4,4,Ungulate,94.67,Y,54.5
+Bighorn Sheep,Alberta,50000,15,3333,S4,4,Ungulate,94.67,Y,54.5
+Bighorn Sheep,Alberta,45000,14,3214,S4,4,Ungulate,94.67,Y,54.5
+Bighorn Sheep,Alberta,33000,14,2357,S4,4,Ungulate,94.67,Y,54.5
+Bighorn Sheep,Arizona,6500,10,650,S3S4,3.5,Ungulate,94.67,Y,34.1661
+Bighorn Sheep,Arizona,5500,7,786,S3S4,3.5,Ungulate,94.67,Y,34.1661
+Bighorn Sheep,Arizona,7000,10,700,S3S4,3.5,Ungulate,94.67,Y,34.1661
+Bighorn Sheep,Arizona,7500,7,1071,S3S4,3.5,Ungulate,94.67,Y,34.1661
+Bighorn Sheep,Arizona,9000,9,1000,S3S4,3.5,Ungulate,94.67,Y,34.1661
+Bighorn Sheep,British Columbia,28000,12,2333,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,31000,12,2583,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,35000,10,3500,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,36958,10,3696,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,60000,7,8571,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,25500,9,2833,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,50000,10,5000,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,30000,12,2500,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,British Columbia,29500,14,2107,S3,3,Ungulate,94.67,Y,54.149015
+Bighorn Sheep,California,7000,10,700,S3,3,Ungulate,94.67,Y,37.2673795
+Bighorn Sheep,Colorado,6500,7,929,S4,4,Ungulate,94.67,Y,38.99625
+Bighorn Sheep,Colorado,7000,7,1000,S4,4,Ungulate,94.67,Y,38.99625
+Bighorn Sheep,Colorado,6000,9,667,S4,4,Ungulate,94.67,Y,38.99625
+Bighorn Sheep,Colorado,8500,10,850,S4,4,Ungulate,94.67,Y,38.99625
+Bighorn Sheep,Colorado,5000,7,714,S4,4,Ungulate,94.67,Y,38.99625
+Bighorn Sheep,Colorado,7500,7,1071,S4,4,Ungulate,94.67,Y,38.99625
+Bighorn Sheep,Colorado,7500,7,1071,S4,4,Ungulate,94.67,Y,38.99625
+Bighorn Sheep,Idaho,8900,10,890,S3,3,Ungulate,94.67,Y,45.5
+Bighorn Sheep,Idaho,9800,8,1225,S3,3,Ungulate,94.67,Y,45.5
+Bighorn Sheep,Idaho,9400,10,940,S3,3,Ungulate,94.67,Y,45.5
+Bighorn Sheep,Idaho,9500,10,950,S3,3,Ungulate,94.67,Y,45.5
+Bighorn Sheep,Idaho,12362,9.5,1301,S3,3,Ungulate,94.67,Y,45.5
+Bighorn Sheep,Idaho,9400,10,940,S3,3,Ungulate,94.67,Y,45.5
+Bighorn Sheep,Idaho,12362,10,1236,S3,3,Ungulate,94.67,Y,45.5
+Bighorn Sheep,Montana,4500,5,900,S4,4,Ungulate,94.67,Y,46.6843885
+Bighorn Sheep,Montana,12107,7,1730,S4,4,Ungulate,94.67,Y,46.6843885
+Bighorn Sheep,Montana,13000,10,1300,S4,4,Ungulate,94.67,Y,46.6843885
+Bighorn Sheep,Montana,13000,7,1857,S4,4,Ungulate,94.67,Y,46.6843885
+Bighorn Sheep,Montana,5000,6,833,S4,4,Ungulate,94.67,Y,46.6843885
+Bighorn Sheep,Nevada,5500,7,786,S4,4,Ungulate,94.67,Y,38.5035905
+Bighorn Sheep,Nevada,5200,7,743,S4,4,Ungulate,94.67,Y,38.5035905
+Bighorn Sheep,Nevada,7500,6,1250,S4,4,Ungulate,94.67,Y,38.5035905
+Bighorn Sheep,Nevada,8220,5,1644,S4,4,Ungulate,94.67,Y,38.5035905
+Bighorn Sheep,New Mexico,6500,7,929,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,New Mexico,8500,7,1214,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,New Mexico,8220,5,1644,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,New Mexico,7500,7,1071,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,New Mexico,6500,7,929,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,New Mexico,7250,7,1036,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,New Mexico,5500,5,1100,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,New Mexico,9500,6.5,1462,S1,1,Ungulate,94.67,Y,34.1669615
+Bighorn Sheep,Utah,5000,5,1000,S3,3,Ungulate,94.67,Y,39.5
+Bighorn Sheep,Utah,6000,5,1200,S3,3,Ungulate,94.67,Y,39.5
+Bighorn Sheep,Utah,3450,5,690,S3,3,Ungulate,94.67,Y,39.5
+Bighorn Sheep,Utah,6000,5.5,1091,S3,3,Ungulate,94.67,Y,39.5
+Bighorn Sheep,Utah,5500,7,786,S3,3,Ungulate,94.67,Y,39.5
+Bighorn Sheep,Washington,6500,5,1300,S3S4,3.5,Ungulate,94.67,Y,47.275
+Bighorn Sheep,Wyoming,9500,10,950,S3S4,3.5,Ungulate,94.67,Y,43
+Bighorn Sheep,Wyoming,9500,10,950,S3S4,3.5,Ungulate,94.67,Y,43
+Bighorn Sheep,Wyoming,9000,8,1125,S3S4,3.5,Ungulate,94.67,Y,43
+Bighorn Sheep,Wyoming,9500,10,950,S3S4,3.5,Ungulate,94.67,Y,43
+Bighorn Sheep,Wyoming,9500,10,950,S3S4,3.5,Ungulate,94.67,Y,43
+Caribou,Alaska,9558,5,1912,S5,5,Ungulate,160,Y,61.3009
+Caribou,Alaska,12107,9,1345,S5,5,Ungulate,160,Y,61.3009
+Caribou,Alaska,9000,7,1286,S5,5,Ungulate,160,Y,61.3009
+Caribou,Alaska,9900,7,1414,S5,5,Ungulate,160,Y,61.3009
+Caribou,Alaska,11000,7,1571,S5,5,Ungulate,160,Y,61.3009
+Caribou,British Columbia,9900,12,825,S3,3,Ungulate,160,Y,54.149015
+Caribou,British Columbia,14200,10,1420,S3,3,Ungulate,160,Y,54.149015
+Caribou,British Columbia,13900,10,1390,S3,3,Ungulate,160,Y,54.149015
+Caribou,British Columbia,9500,10,950,S3,3,Ungulate,160,Y,54.149015
+Caribou,British Columbia,9558,10,956,S3,3,Ungulate,160,Y,54.149015
+Caribou,Manitoba,8595,7,1228,S4,4,Ungulate,160,Y,54.5
+Caribou,Manitoba,8405,5,1681,S4,4,Ungulate,160,Y,54.5
+Caribou,Manitoba,9934,7,1419,S4,4,Ungulate,160,Y,54.5
+Caribou,Manitoba,11591,7,1656,S4,4,Ungulate,160,Y,54.5
+Caribou,Manitoba,12738,6,2123,S4,4,Ungulate,160,Y,54.5
+Caribou,Newfoundland,12600,6,2100,S5,5,Ungulate,160,Y,53.50236
+Caribou,Newfoundland,10600,7,1514,S5,5,Ungulate,160,Y,53.50236
+Caribou,Newfoundland,11000,6,1833,S5,5,Ungulate,160,Y,53.50236
+Caribou,Newfoundland,5482,6.25,877,S5,5,Ungulate,160,Y,53.50236
+Caribou,Newfoundland,9171,6,1529,S5,5,Ungulate,160,Y,53.50236
+Caribou,Northwest Territories,10900,10,1090,S3,3,Ungulate,160,Y,69.3764755
+Caribou,Northwest Territories,14656,12,1221,S3,3,Ungulate,160,Y,69.3764755
+Caribou,Northwest Territories,12500,8,1563,S3,3,Ungulate,160,Y,69.3764755
+Caribou,Nunavut,8284,5,1657,S4,4,Ungulate,160,Y,67.3534075
+Caribou,Nunavut,8595,7,1228,S4,4,Ungulate,160,Y,67.3534075
+Caribou,Nunavut,10954,5,2191,S4,4,Ungulate,160,Y,67.3534075
+Caribou,Nunavut,11391,8,1424,S4,4,Ungulate,160,Y,67.3534075
+Caribou,Nunavut,8500,6.25,1360,S4,4,Ungulate,160,Y,67.3534075
+Caribou,Quebec,12523,6,2087,S5,5,Ungulate,160,Y,53.786805
+Caribou,Quebec,7350,6,1225,S5,5,Ungulate,160,Y,53.786805
+Caribou,Quebec,8730,6.5,1343,S5,5,Ungulate,160,Y,53.786805
+Caribou,Quebec,10316,7,1474,S5,5,Ungulate,160,Y,53.786805
+Caribou,Quebec,8277,7,1182,S5,5,Ungulate,160,Y,53.786805
+Caribou,Yukon,19000,12,1583,S3S4,3.5,Ungulate,160,Y,64.8075965
+Pronghorn,Alberta,4500,3,1500,S3S4,3.5,Ungulate,54,N,54.5
+Pronghorn,Alberta,4500,5,900,S3S4,3.5,Ungulate,54,N,54.5
+Pronghorn,Alberta,4500,5,900,S3S4,3.5,Ungulate,54,N,54.5
+Pronghorn,Arizona,3000,5,600,S5,5,Ungulate,54,N,34.1661
+Pronghorn,Arizona,3500,5,700,S5,5,Ungulate,54,N,34.1661
+Pronghorn,Arizona,4600,5,920,S5,5,Ungulate,54,N,34.1661
+Pronghorn,Arizona,2500,5,500,S5,5,Ungulate,54,N,34.1661
+Pronghorn,Arizona,4000,6,667,S5,5,Ungulate,54,N,34.1661
+Pronghorn,California,3950,4,988,,,Ungulate,54,N,37.2673795
+Pronghorn,Colorado,2250,3,750,S4,4,Ungulate,54,N,38.99625
+Pronghorn,Colorado,3059,4,765,S4,4,Ungulate,54,N,38.99625
+Pronghorn,Colorado,3000,3,1000,S4,4,Ungulate,54,N,38.99625
+Pronghorn,Colorado,3000,5,600,S4,4,Ungulate,54,N,38.99625
+Pronghorn,Colorado,3200,3,1067,S4,4,Ungulate,54,N,38.99625
+Pronghorn,Idaho,3250,4,813,S5,5,Ungulate,54,N,45.5
+Pronghorn,Idaho,2000,5,400,S5,5,Ungulate,54,N,45.5
+Pronghorn,Idaho,3500,4,875,S5,5,Ungulate,54,N,45.5
+Pronghorn,Idaho,2500,3,833,S5,5,Ungulate,54,N,45.5
+Pronghorn,Idaho,2867,4,717,S5,5,Ungulate,54,N,45.5
+Pronghorn,Montana,1995,4,499,S5,5,Ungulate,54,N,46.6843885
+Pronghorn,Montana,2200,3,733,S5,5,Ungulate,54,N,46.6843885
+Pronghorn,Montana,3300,3,1100,S5,5,Ungulate,54,N,46.6843885
+Pronghorn,Montana,2591,4,648,S5,5,Ungulate,54,N,46.6843885
+Pronghorn,Montana,2650,3,883,S5,5,Ungulate,54,N,46.6843885
+Pronghorn,Nevada,1500,7,214,S5,5,Ungulate,54,N,38.5035905
+Pronghorn,Nevada,3950,4,988,S5,5,Ungulate,54,N,38.5035905
+Pronghorn,Nevada,2750,3,917,S5,5,Ungulate,54,N,38.5035905
+Pronghorn,Nevada,2500,5,500,S5,5,Ungulate,54,N,38.5035905
+Pronghorn,Nevada,3000,5,600,S5,5,Ungulate,54,N,38.5035905
+Pronghorn,New Mexico,2750,3,917,S5,5,Ungulate,54,N,34.1669615
+Pronghorn,New Mexico,4500,3,1500,S5,5,Ungulate,54,N,34.1669615
+Pronghorn,New Mexico,4500,3,1500,S5,5,Ungulate,54,N,34.1669615
+Pronghorn,New Mexico,3600,3,1200,S5,5,Ungulate,54,N,34.1669615
+Pronghorn,New Mexico,3500,4,875,S5,5,Ungulate,54,N,34.1669615
+Pronghorn,Oklahoma,2250,3,750,S3,3,Ungulate,54,N,35.307778
+Pronghorn,South Dakota,2395,3,798,S5,5,Ungulate,54,N,44.213359
+Pronghorn,South Dakota,1750,3,583,S5,5,Ungulate,54,N,44.213359
+Pronghorn,South Dakota,2250,4,563,S5,5,Ungulate,54,N,44.213359
+Pronghorn,South Dakota,2250,3,750,S5,5,Ungulate,54,N,44.213359
+Pronghorn,South Dakota,2219,4,555,S5,5,Ungulate,54,N,44.213359
+Pronghorn,Texas,2200,4,550,S5,5,Ungulate,54,N,31.168711
+Pronghorn,Texas,3500,4,875,S5,5,Ungulate,54,N,31.168711
+Pronghorn,Texas,2750,2,1375,S5,5,Ungulate,54,N,31.168711
+Pronghorn,Texas,3823,3,1274,S5,5,Ungulate,54,N,31.168711
+Pronghorn,Texas,3500,3,1167,S5,5,Ungulate,54,N,31.168711
+Pronghorn,Utah,4500,5,900,S4,4,Ungulate,54,N,39.5
+Pronghorn,Utah,2500,3,833,S4,4,Ungulate,54,N,39.5
+Pronghorn,Utah,3000,5,600,S4,4,Ungulate,54,N,39.5
+Pronghorn,Utah,3500,5,700,S4,4,Ungulate,54,N,39.5
+Pronghorn,Utah,3500,3,1167,S4,4,Ungulate,54,N,39.5
+Pronghorn,Wyoming,2695,3,898,S5,5,Ungulate,54,N,43
+Pronghorn,Wyoming,2250,3,750,S5,5,Ungulate,54,N,43
+Pronghorn,Wyoming,2900,3,967,S5,5,Ungulate,54,N,43
+Pronghorn,Wyoming,2174,2,1087,S5,5,Ungulate,54,N,43
+Pronghorn,Wyoming,3950,3,1317,S5,5,Ungulate,54,N,43
+White-tailed Deer,Alabama,1900,3,633,S5,5,Ungulate,81.5,N,32.59965
+White-tailed Deer,Alabama,1750,3,583,S5,5,Ungulate,81.5,N,32.59965
+White-tailed Deer,Alabama,1400,3,467,S5,5,Ungulate,81.5,N,32.59965
+White-tailed Deer,Alabama,1400,3,467,S5,5,Ungulate,81.5,N,32.59965
+White-tailed Deer,Alabama,1575,3,525,S5,5,Ungulate,81.5,N,32.59965
+White-tailed Deer,Alberta,7500,9,833,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Alberta,4500,6.5,692,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Alberta,6000,6,1000,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Alberta,5398,6,900,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Alberta,5950,7,850,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Arizona,3800,5,760,S5,5,Ungulate,81.5,N,34.1661
+White-tailed Deer,Arizona,3500,5,700,S5,5,Ungulate,81.5,N,34.1661
+White-tailed Deer,Arizona,3000,4,750,S5,5,Ungulate,81.5,N,34.1661
+White-tailed Deer,Arizona,3000,5,600,S5,5,Ungulate,81.5,N,34.1661
+White-tailed Deer,Arizona,4950,7,707,S5,5,Ungulate,81.5,N,34.1661
+White-tailed Deer,Colorado,5500,5,1100,S5,5,Ungulate,81.5,N,38.99625
+White-tailed Deer,Colorado,8500,5,1700,S5,5,Ungulate,81.5,N,38.99625
+White-tailed Deer,Colorado,6372,5,1274,S5,5,Ungulate,81.5,N,38.99625
+White-tailed Deer,Colorado,4000,5,800,S5,5,Ungulate,81.5,N,38.99625
+White-tailed Deer,Florida,800,3,267,S5,5,Ungulate,81.5,N,28.0585655
+White-tailed Deer,Florida,1450,3,483,S5,5,Ungulate,81.5,N,28.0585655
+White-tailed Deer,Florida,2000,3,667,S5,5,Ungulate,81.5,N,28.0585655
+White-tailed Deer,Georgia,1235,4,309,S5,5,Ungulate,81.5,N,32.6784
+White-tailed Deer,Georgia,1050,3,350,S5,5,Ungulate,81.5,N,32.6784
+White-tailed Deer,Georgia,2495,3,832,S5,5,Ungulate,81.5,N,32.6784
+White-tailed Deer,Georgia,1325,3,442,S5,5,Ungulate,81.5,N,32.6784
+White-tailed Deer,Georgia,2000,3,667,S5,5,Ungulate,81.5,N,32.6784
+White-tailed Deer,Idaho,3000,5,600,S5,5,Ungulate,81.5,N,45.5
+White-tailed Deer,Idaho,4715,5,943,S5,5,Ungulate,81.5,N,45.5
+White-tailed Deer,Idaho,3500,5,700,S5,5,Ungulate,81.5,N,45.5
+White-tailed Deer,Idaho,3000,5,600,S5,5,Ungulate,81.5,N,45.5
+White-tailed Deer,Idaho,2950,5,590,S5,5,Ungulate,81.5,N,45.5
+White-tailed Deer,Illinois,3200,3,1067,S5,5,Ungulate,81.5,N,39.7338515
+White-tailed Deer,Illinois,4700,3,1567,S5,5,Ungulate,81.5,N,39.7338515
+White-tailed Deer,Illinois,4779,5,956,S5,5,Ungulate,81.5,N,39.7338515
+White-tailed Deer,Illinois,2100,3,700,S5,5,Ungulate,81.5,N,39.7338515
+White-tailed Deer,Illinois,4600,3,1533,S5,5,Ungulate,81.5,N,39.7338515
+White-tailed Deer,Indiana,2750,4,688,S5,5,Ungulate,81.5,N,39.7667125
+White-tailed Deer,Indiana,3800,5,760,S5,5,Ungulate,81.5,N,39.7667125
+White-tailed Deer,Indiana,3250,6,542,S5,5,Ungulate,81.5,N,39.7667125
+White-tailed Deer,Indiana,2100,5,420,S5,5,Ungulate,81.5,N,39.7667125
+White-tailed Deer,Indiana,2500,4,625,S5,5,Ungulate,81.5,N,39.7667125
+White-tailed Deer,Iowa,4000,5,800,S5,5,Ungulate,81.5,N,42.036406
+White-tailed Deer,Iowa,3250,5,650,S5,5,Ungulate,81.5,N,42.036406
+White-tailed Deer,Iowa,4000,5,800,S5,5,Ungulate,81.5,N,42.036406
+White-tailed Deer,Iowa,3650,5,730,S5,5,Ungulate,81.5,N,42.036406
+White-tailed Deer,Iowa,5000,5,1000,S5,5,Ungulate,81.5,N,42.036406
+White-tailed Deer,Maine,1100,5,220,S5,5,Ungulate,81.5,N,45.2172
+White-tailed Deer,Maine,2400,6,400,S5,5,Ungulate,81.5,N,45.2172
+White-tailed Deer,Maine,1800,5,360,S5,5,Ungulate,81.5,N,45.2172
+White-tailed Deer,Maine,1600,6,267,S5,5,Ungulate,81.5,N,45.2172
+White-tailed Deer,Maine,1200,5,240,S5,5,Ungulate,81.5,N,45.2172
+White-tailed Deer,Manitoba,3568,5,714,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Manitoba,3817,6,636,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Manitoba,3750,6,625,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Manitoba,2866,6,478,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Manitoba,4366,5,873,S5,5,Ungulate,81.5,N,54.5
+White-tailed Deer,Minnesota,1800,6,300,,,Ungulate,81.5,N,46.4299505
+White-tailed Deer,Minnesota,2000,4,500,,,Ungulate,81.5,N,46.4299505
+White-tailed Deer,Mississippi,1175,3,392,S5,5,Ungulate,81.5,N,32.587897
+White-tailed Deer,Mississippi,2000,4,500,S5,5,Ungulate,81.5,N,32.587897
+White-tailed Deer,Mississippi,1200,2,600,S5,5,Ungulate,81.5,N,32.587897
+White-tailed Deer,Mississippi,1200,3,400,S5,5,Ungulate,81.5,N,32.587897
+White-tailed Deer,Mississippi,1500,3,500,S5,5,Ungulate,81.5,N,32.587897
+White-tailed Deer,Missouri,3500,5,700,S5,5,Ungulate,81.5,N,38.2867795
+White-tailed Deer,Missouri,3000,5,600,S5,5,Ungulate,81.5,N,38.2867795
+White-tailed Deer,Missouri,3500,5,700,S5,5,Ungulate,81.5,N,38.2867795
+White-tailed Deer,Missouri,4000,4,1000,S5,5,Ungulate,81.5,N,38.2867795
+White-tailed Deer,Missouri,4843,5,969,S5,5,Ungulate,81.5,N,38.2867795
+White-tailed Deer,Montana,3995,5,799,S5,5,Ungulate,81.5,N,46.6843885
+White-tailed Deer,Montana,3600,5,720,S5,5,Ungulate,81.5,N,46.6843885
+White-tailed Deer,Montana,4970,5,994,S5,5,Ungulate,81.5,N,46.6843885
+White-tailed Deer,Montana,5735,5,1147,S5,5,Ungulate,81.5,N,46.6843885
+White-tailed Deer,Montana,4970,6,828,S5,5,Ungulate,81.5,N,46.6843885
+White-tailed Deer,Nebraska,4460,5,892,S5,5,Ungulate,81.5,N,41.500734
+White-tailed Deer,Nebraska,4000,4,1000,S5,5,Ungulate,81.5,N,41.500734
+White-tailed Deer,Nebraska,4399,4,1100,S5,5,Ungulate,81.5,N,41.500734
+White-tailed Deer,Nebraska,2500,4,625,S5,5,Ungulate,81.5,N,41.500734
+White-tailed Deer,Nebraska,5352,5,1070,S5,5,Ungulate,81.5,N,41.500734
+White-tailed Deer,New Mexico,4200,5,840,S4,4,Ungulate,81.5,N,34.1669615
+White-tailed Deer,New Mexico,5098,5,1020,S4,4,Ungulate,81.5,N,34.1669615
+White-tailed Deer,New Mexico,5500,5,1100,S4,4,Ungulate,81.5,N,34.1669615
+White-tailed Deer,New Mexico,3750,5,750,S4,4,Ungulate,81.5,N,34.1669615
+White-tailed Deer,New Mexico,5500,5,1100,S4,4,Ungulate,81.5,N,34.1669615
+White-tailed Deer,New York,1500,4,375,S5,5,Ungulate,81.5,N,42.755
+White-tailed Deer,New York,1000,3,333,S5,5,Ungulate,81.5,N,42.755
+White-tailed Deer,New York,1050,3,350,S5,5,Ungulate,81.5,N,42.755
+White-tailed Deer,New York,2150,5,430,S5,5,Ungulate,81.5,N,42.755
+White-tailed Deer,Vermont,3250,5,650,S5,5,Ungulate,81.5,N,43.8692575
+White-tailed Deer,Virginia,1350,3,450,S5,5,Ungulate,81.5,N,38.003375
+White-tailed Deer,Virginia,900,3,300,S5,5,Ungulate,81.5,N,38.003375
+White-tailed Deer,Virginia,1784,3,595,S5,5,Ungulate,81.5,N,38.003375
+White-tailed Deer,Virginia,1979,3,660,S5,5,Ungulate,81.5,N,38.003375
+White-tailed Deer,Virginia,1100,3,367,S5,5,Ungulate,81.5,N,38.003375
+Moose,Alaska,15500,10,1550,S5,5,Ungulate,416.25,Y,61.3009
+Moose,Alaska,16900,12,1408,S5,5,Ungulate,416.25,Y,61.3009
+Moose,Alaska,27500,10,2750,S5,5,Ungulate,416.25,Y,61.3009
+Moose,Alaska,25000,14,1786,S5,5,Ungulate,416.25,Y,61.3009
+Moose,Alaska,22000,10,2200,S5,5,Ungulate,416.25,Y,61.3009
+Moose,Alberta,8500,10,850,S5,5,Ungulate,416.25,Y,54.5
+Moose,Alberta,9500,6,1583,S5,5,Ungulate,416.25,Y,54.5
+Moose,Alberta,8500,7,1214,S5,5,Ungulate,416.25,Y,54.5
+Moose,Alberta,6121,6,1020,S5,5,Ungulate,416.25,Y,54.5
+Moose,Alberta,7500,6,1250,S5,5,Ungulate,416.25,Y,54.5
+Moose,British Columbia,9500,10,950,S5,5,Ungulate,416.25,Y,54.149015
+Moose,British Columbia,11950,10,1195,S5,5,Ungulate,416.25,Y,54.149015
+Moose,British Columbia,5200,5,1040,S5,5,Ungulate,416.25,Y,54.149015
+Moose,British Columbia,7500,8,938,S5,5,Ungulate,416.25,Y,54.149015
+Moose,British Columbia,9000,10,900,S5,5,Ungulate,416.25,Y,54.149015
+Moose,Colorado,5500,6.33,869,,,Ungulate,416.25,Y,38.99625
+Moose,Colorado,4450,7,636,,,Ungulate,416.25,Y,38.99625
+Moose,Colorado,5000,6.33,790,,,Ungulate,416.25,Y,38.99625
+Moose,Colorado,6000,7,857,,,Ungulate,416.25,Y,38.99625
+Moose,Colorado,4779,5,956,,,Ungulate,416.25,Y,38.99625
+Moose,Idaho,3950,5,790,S5,5,Ungulate,416.25,Y,45.5
+Moose,Idaho,5800,8,725,S5,5,Ungulate,416.25,Y,45.5
+Moose,Idaho,7000,6,1167,S5,5,Ungulate,416.25,Y,45.5
+Moose,Idaho,4800,10,480,S5,5,Ungulate,416.25,Y,45.5
+Moose,Idaho,4000,7.25,552,S5,5,Ungulate,416.25,Y,45.5
+Moose,Maine,4000,6,667,S5,5,Ungulate,416.25,Y,45.2172
+Moose,Maine,4750,6,792,S5,5,Ungulate,416.25,Y,45.2172
+Moose,Maine,3500,6,583,S5,5,Ungulate,416.25,Y,45.2172
+Moose,Maine,4295,6,716,S5,5,Ungulate,416.25,Y,45.2172
+Moose,Maine,4200,6,700,S5,5,Ungulate,416.25,Y,45.2172
+Moose,Manitoba,10100,8,1263,S5,5,Ungulate,416.25,Y,54.5
+Moose,Manitoba,9934,9,1104,S5,5,Ungulate,416.25,Y,54.5
+Moose,Manitoba,7500,8,938,S5,5,Ungulate,416.25,Y,54.5
+Moose,Manitoba,7095,7,1014,S5,5,Ungulate,416.25,Y,54.5
+Moose,Manitoba,13100,6,2183,S5,5,Ungulate,416.25,Y,54.5
+Moose,Montana,4250,5,850,S5,5,Ungulate,416.25,Y,46.6843885
+Moose,Montana,5000,5,1000,S5,5,Ungulate,416.25,Y,46.6843885
+Moose,Montana,4500,5,900,S5,5,Ungulate,416.25,Y,46.6843885
+Moose,Montana,4500,6,750,S5,5,Ungulate,416.25,Y,46.6843885
+Moose,Montana,5735,5,1147,S5,5,Ungulate,416.25,Y,46.6843885
+Moose,New Brunswick,2995,5,599,S5,5,Ungulate,416.25,Y,46.475073
+Moose,New Brunswick,3500,5,700,S5,5,Ungulate,416.25,Y,46.475073
+Moose,New Brunswick,2200,5,440,S5,5,Ungulate,416.25,Y,46.475073
+Moose,New Brunswick,3000,5,600,S5,5,Ungulate,416.25,Y,46.475073
+Moose,New Brunswick,3500,5,700,S5,5,Ungulate,416.25,Y,46.475073
+Moose,New Hampshire,2900,5,580,S5,5,Ungulate,416.25,Y,44.0016305
+Moose,New Hampshire,2100,6,350,S5,5,Ungulate,416.25,Y,44.0016305
+Moose,New Hampshire,4698,7,671,S5,5,Ungulate,416.25,Y,44.0016305
+Moose,New Hampshire,2294,6,382,S5,5,Ungulate,416.25,Y,44.0016305
+Moose,Newfoundland,4050,6,675,S5,5,Ungulate,416.25,Y,53.50236
+Moose,Newfoundland,7009,7,1001,S5,5,Ungulate,416.25,Y,53.50236
+Moose,Newfoundland,4950,7,707,S5,5,Ungulate,416.25,Y,53.50236
+Moose,Newfoundland,4007,6.67,601,S5,5,Ungulate,416.25,Y,53.50236
+Moose,Newfoundland,5100,6.67,765,S5,5,Ungulate,416.25,Y,53.50236
+Moose,Northwest Territories,23683,10,2368,S5,5,Ungulate,416.25,Y,69.3764755
+Moose,Northwest Territories,22750,10,2275,S5,5,Ungulate,416.25,Y,69.3764755
+Moose,Ontario,3121,7,446,S5,5,Ungulate,416.25,Y,49.386244
+Moose,Ontario,1816,7,259,S5,5,Ungulate,416.25,Y,49.386244
+Moose,Ontario,3078,7,440,S5,5,Ungulate,416.25,Y,49.386244
+Moose,Ontario,4995,7,714,S5,5,Ungulate,416.25,Y,49.386244
+Moose,Ontario,6258,7,894,S5,5,Ungulate,416.25,Y,49.386244
+Moose,Quebec,3814,7,545,S5,5,Ungulate,416.25,Y,53.786805
+Moose,Quebec,2542,6,424,S5,5,Ungulate,416.25,Y,53.786805
+Moose,Quebec,1550,7,221,S5,5,Ungulate,416.25,Y,53.786805
+Moose,Quebec,1912,6.75,283,S5,5,Ungulate,416.25,Y,53.786805
+Moose,Quebec,3325,7,475,S5,5,Ungulate,416.25,Y,53.786805
+Moose,Saskatchewan,6500,7,929,S4,4,Ungulate,416.25,Y,54.5
+Moose,Saskatchewan,8990,7,1284,S4,4,Ungulate,416.25,Y,54.5
+Moose,Saskatchewan,7433,7,1062,S4,4,Ungulate,416.25,Y,54.5
+Moose,Saskatchewan,5933,7,848,S4,4,Ungulate,416.25,Y,54.5
+Moose,Saskatchewan,6200,6,1033,S4,4,Ungulate,416.25,Y,54.5
+Moose,Utah,5500,7,786,S3S4,3.5,Ungulate,416.25,Y,39.5
+Moose,Utah,5500,5,1100,S3S4,3.5,Ungulate,416.25,Y,39.5
+Moose,Utah,4250,6.75,630,S3S4,3.5,Ungulate,416.25,Y,39.5
+Moose,Utah,8284,9,920,S3S4,3.5,Ungulate,416.25,Y,39.5
+Moose,Utah,6500,6,1083,S3S4,3.5,Ungulate,416.25,Y,39.5
+Moose,Vermont,2900,5,580,S5,5,Ungulate,416.25,Y,43.8692575
+Moose,Vermont,2800,5,560,S5,5,Ungulate,416.25,Y,43.8692575
+Moose,Washington,8500,8,1063,S2S3,2.5,Ungulate,416.25,Y,47.275
+Moose,Washington,5000,8,625,S2S3,2.5,Ungulate,416.25,Y,47.275
+Moose,Washington,6000,6,1000,S2S3,2.5,Ungulate,416.25,Y,47.275
+Moose,Wyoming,7500,7,1071,S5,5,Ungulate,416.25,Y,43
+Moose,Wyoming,6595,6,1099,S5,5,Ungulate,416.25,Y,43
+Moose,Wyoming,7500,7,1071,S5,5,Ungulate,416.25,Y,43
+Moose,Wyoming,6900,7,986,S5,5,Ungulate,416.25,Y,43
+Moose,Wyoming,7646,8,956,S5,5,Ungulate,416.25,Y,43
+Moose,Yukon,20000,12,1667,S5,5,Ungulate,416.25,Y,64.8075965
+Moose,Yukon,19500,10,1950,S5,5,Ungulate,416.25,Y,64.8075965
+Moose,Yukon,19000,10,1900,S5,5,Ungulate,416.25,Y,64.8075965
+Mule Deer,Alaska,6691,6.25,1070,S4,4,Ungulate,102.5,N,61.3009
+Mule Deer,Alaska,5250,7,750,S4,4,Ungulate,102.5,N,61.3009
+Mule Deer,Alaska,1950,6,325,S4,4,Ungulate,102.5,N,61.3009
+Mule Deer,Alaska,5500,5,1100,S4,4,Ungulate,102.5,N,61.3009
+Mule Deer,Alaska,4550,7,650,S4,4,Ungulate,102.5,N,61.3009
+Mule Deer,Alberta,7500,4,1875,S5,5,Ungulate,102.5,N,54.5
+Mule Deer,Alberta,15293,6,2549,S5,5,Ungulate,102.5,N,54.5
+Mule Deer,Alberta,6500,6,1083,S5,5,Ungulate,102.5,N,54.5
+Mule Deer,Alberta,9500,6,1583,S5,5,Ungulate,102.5,N,54.5
+Mule Deer,Alberta,9000,6,1500,S5,5,Ungulate,102.5,N,54.5
+Mule Deer,Arizona,3000,5,600,S5,5,Ungulate,102.5,N,34.1661
+Mule Deer,Arizona,3200,4,800,S5,5,Ungulate,102.5,N,34.1661
+Mule Deer,Arizona,6750,9,750,S5,5,Ungulate,102.5,N,34.1661
+Mule Deer,Arizona,5500,5,1100,S5,5,Ungulate,102.5,N,34.1661
+Mule Deer,Arizona,5900,7,843,S5,5,Ungulate,102.5,N,34.1661
+Mule Deer,Arizona,4375,5,875,S5,5,Ungulate,102.5,N,34.1661
+Mule Deer,British Columbia,3900,5,780,S5,5,Ungulate,102.5,Y,54.149015
+Mule Deer,British Columbia,9500,7,1357,S5,5,Ungulate,102.5,Y,54.149015
+Mule Deer,British Columbia,4950,5.67,873,S5,5,Ungulate,102.5,Y,54.149015
+Mule Deer,British Columbia,7000,5,1400,S5,5,Ungulate,102.5,Y,54.149015
+Mule Deer,British Columbia,4500,5.67,794,S5,5,Ungulate,102.5,Y,54.149015
+Mule Deer,California,3500,3,1167,,,Ungulate,102.5,Y,37.2673795
+Mule Deer,California,3500,7,500,,,Ungulate,102.5,Y,37.2673795
+Mule Deer,California,3500,5,700,,,Ungulate,102.5,Y,37.2673795
+Mule Deer,California,3000,2,1500,,,Ungulate,102.5,Y,37.2673795
+Mule Deer,Colorado,5000,5,1000,S4,4,Ungulate,102.5,N,38.99625
+Mule Deer,Colorado,3500,7,500,S4,4,Ungulate,102.5,N,38.99625
+Mule Deer,Colorado,4800,5,960,S4,4,Ungulate,102.5,N,38.99625
+Mule Deer,Colorado,6500,5,1300,S4,4,Ungulate,102.5,N,38.99625
+Mule Deer,Colorado,3823,5,765,S4,4,Ungulate,102.5,N,38.99625
+Mule Deer,Idaho,2200,8,275,S5,5,Ungulate,102.5,N,45.5
+Mule Deer,Idaho,3950,7,564,S5,5,Ungulate,102.5,N,45.5
+Mule Deer,Idaho,3800,6,633,S5,5,Ungulate,102.5,N,45.5
+Mule Deer,Idaho,4500,7,643,S5,5,Ungulate,102.5,N,45.5
+Mule Deer,Idaho,5950,7,850,S5,5,Ungulate,102.5,N,45.5
+Mule Deer,Kansas,8500,5,1700,S5,5,Ungulate,102.5,N,38.500116
+Mule Deer,Kansas,4250,5,850,S5,5,Ungulate,102.5,N,38.500116
+Mule Deer,Montana,3600,4,900,S5,5,Ungulate,102.5,N,46.6843885
+Mule Deer,Montana,4700,5,940,S5,5,Ungulate,102.5,N,46.6843885
+Mule Deer,Montana,5250,5,1050,S5,5,Ungulate,102.5,N,46.6843885
+Mule Deer,Montana,4500,5,900,S5,5,Ungulate,102.5,N,46.6843885
+Mule Deer,Montana,6563,5,1313,S5,5,Ungulate,102.5,N,46.6843885
+Mule Deer,Nebraska,3200,4,800,S5,5,Ungulate,102.5,N,41.500734
+Mule Deer,Nebraska,2500,4,625,S5,5,Ungulate,102.5,N,41.500734
+Mule Deer,Nebraska,3250,4,813,S5,5,Ungulate,102.5,N,41.500734
+Mule Deer,Nebraska,4000,4,1000,S5,5,Ungulate,102.5,N,41.500734
+Mule Deer,Nebraska,3750,4,938,S5,5,Ungulate,102.5,N,41.500734
+Mule Deer,Nevada,5500,7,786,S5,5,Ungulate,102.5,N,38.5035905
+Mule Deer,Nevada,6400,5,1280,S5,5,Ungulate,102.5,N,38.5035905
+Mule Deer,Nevada,3500,7,500,S5,5,Ungulate,102.5,N,38.5035905
+Mule Deer,Nevada,5500,6.25,880,S5,5,Ungulate,102.5,N,38.5035905
+Mule Deer,Nevada,4875,6,813,S5,5,Ungulate,102.5,N,38.5035905
+Mule Deer,New Mexico,5500,5,1100,S5,5,Ungulate,102.5,N,34.1669615
+Mule Deer,New Mexico,6000,5,1200,S5,5,Ungulate,102.5,N,34.1669615
+Mule Deer,New Mexico,4333,5,867,S5,5,Ungulate,102.5,N,34.1669615
+Mule Deer,New Mexico,4500,5,900,S5,5,Ungulate,102.5,N,34.1669615
+Mule Deer,New Mexico,4250,5,850,S5,5,Ungulate,102.5,N,34.1669615
+Mule Deer,North Dakota,2750,5,550,,,Ungulate,102.5,N,47.46764
+Mule Deer,North Dakota,2931,5,586,,,Ungulate,102.5,N,47.46764
+Mule Deer,Oregon,4500,5,900,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,Oregon,9500,5,1900,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,Oregon,5000,5,1000,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,Oregon,4800,5,960,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,Oregon,3800,5,760,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,Oregon,3550,5,710,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,Oregon,3950,3,1317,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,Oregon,4142,5,828,S5,5,Ungulate,102.5,N,44.145855
+Mule Deer,South Dakota,5100,8,638,S5,5,Ungulate,102.5,N,44.213359
+Mule Deer,South Dakota,2850,6,475,S5,5,Ungulate,102.5,N,44.213359
+Mule Deer,South Dakota,4000,5,800,S5,5,Ungulate,102.5,N,44.213359
+Mule Deer,South Dakota,4495,3,1498,S5,5,Ungulate,102.5,N,44.213359
+Mule Deer,South Dakota,4250,5,850,S5,5,Ungulate,102.5,N,44.213359
+Mule Deer,Texas,5352,3,1784,S4,4,Ungulate,102.5,N,31.168711
+Mule Deer,Texas,8284,4,2071,S4,4,Ungulate,102.5,N,31.168711
+Mule Deer,Texas,5750,5,1150,S4,4,Ungulate,102.5,N,31.168711
+Mule Deer,Texas,4460,4,1115,S4,4,Ungulate,102.5,N,31.168711
+Mule Deer,Texas,3500,5,700,S4,4,Ungulate,102.5,N,31.168711
+Mule Deer,Utah,6500,5,1300,S5,5,Ungulate,102.5,N,39.5
+Mule Deer,Utah,3500,5,700,S5,5,Ungulate,102.5,N,39.5
+Mule Deer,Utah,3500,5,700,S5,5,Ungulate,102.5,N,39.5
+Mule Deer,Utah,3500,5,700,S5,5,Ungulate,102.5,N,39.5
+Mule Deer,Utah,5500,5,1100,S5,5,Ungulate,102.5,N,39.5
+Mule Deer,Washington,3250,6,542,S5,5,Ungulate,102.5,N,47.275
+Mule Deer,Washington,6000,5,1200,S5,5,Ungulate,102.5,N,47.275
+Mule Deer,Washington,3400,4,850,S5,5,Ungulate,102.5,N,47.275
+Mule Deer,Wyoming,5474,5,1095,S5,5,Ungulate,102.5,N,43
+Mule Deer,Wyoming,7495,5,1499,S5,5,Ungulate,102.5,N,43
+Mule Deer,Wyoming,4900,4,1225,S5,5,Ungulate,102.5,N,43
+Mule Deer,Wyoming,4550,5,910,S5,5,Ungulate,102.5,N,43
+Mule Deer,Wyoming,3200,4,800,S5,5,Ungulate,102.5,N,43
+Elk,Alaska,9900,7,1414,,,Ungulate,327.5,Y,61.3009
+Elk,Alaska,10000,8.5,1176,,,Ungulate,327.5,Y,61.3009
+Elk,Alaska,20000,10,2000,,,Ungulate,327.5,Y,61.3009
+Elk,Alberta,5950,6.5,915,S5,5,Ungulate,327.5,N,54.5
+Elk,Alberta,6500,6,1083,S5,5,Ungulate,327.5,N,54.5
+Elk,Alberta,8000,6,1333,S5,5,Ungulate,327.5,N,54.5
+Elk,Alberta,7646,6,1274,S5,5,Ungulate,327.5,N,54.5
+Elk,Alberta,10195,8,1274,S5,5,Ungulate,327.5,N,54.5
+Elk,Arizona,5750,7,821,,,Ungulate,327.5,N,34.1661
+Elk,Arizona,4500,7,643,,,Ungulate,327.5,N,34.1661
+Elk,Arizona,5500,7,786,,,Ungulate,327.5,N,34.1661
+Elk,Arizona,5200,5,1040,,,Ungulate,327.5,N,34.1661
+Elk,Arizona,4000,7,571,,,Ungulate,327.5,N,34.1661
+Elk,British Columbia,8950,10,895,S5,5,Ungulate,327.5,N,54.149015
+Elk,British Columbia,13900,10,1390,S5,5,Ungulate,327.5,N,54.149015
+Elk,British Columbia,6800,8,850,S5,5,Ungulate,327.5,N,54.149015
+Elk,British Columbia,10000,7,1429,S5,5,Ungulate,327.5,N,54.149015
+Elk,British Columbia,8500,6,1417,S5,5,Ungulate,327.5,N,54.149015
+Elk,British Columbia,25000,10,2500,S5,5,Ungulate,327.5,Y,54.149015
+Elk,California,9500,5,1900,,,Ungulate,327.5,Y,37.2673795
+Elk,California,5000,6,833,,,Ungulate,327.5,Y,37.2673795
+Elk,California,6900,5,1380,,,Ungulate,327.5,Y,37.2673795
+Elk,California,6250,6,1042,,,Ungulate,327.5,Y,37.2673795
+Elk,California,9500,5,1900,,,Ungulate,327.5,Y,37.2673795
+Elk,California,15000,10,1500,,,Ungulate,327.5,Y,37.2673795
+Elk,California,10500,7,1500,,,Ungulate,327.5,Y,37.2673795
+Elk,Colorado,5000,5,1000,S5,5,Ungulate,327.5,N,38.99625
+Elk,Colorado,2500,5,500,S5,5,Ungulate,327.5,N,38.99625
+Elk,Colorado,5000,5,1000,S5,5,Ungulate,327.5,N,38.99625
+Elk,Colorado,6053,5,1211,S5,5,Ungulate,327.5,N,38.99625
+Elk,Colorado,6950,5,1390,S5,5,Ungulate,327.5,N,38.99625
+Elk,Idaho,6950,7,993,S5,5,Ungulate,327.5,N,45.5
+Elk,Idaho,5295,6,883,S5,5,Ungulate,327.5,N,45.5
+Elk,Idaho,6000,7,857,S5,5,Ungulate,327.5,N,45.5
+Elk,Idaho,5500,6.75,815,S5,5,Ungulate,327.5,N,45.5
+Elk,Idaho,4550,7,650,S5,5,Ungulate,327.5,N,45.5
+Elk,Kentucky,4995,5,999,,,Ungulate,327.5,N,37.8203
+Elk,Kentucky,3000,5,600,,,Ungulate,327.5,N,37.8203
+Elk,Montana,6107,7,872,S5,5,Ungulate,327.5,N,46.6843885
+Elk,Montana,4500,5,900,S5,5,Ungulate,327.5,N,46.6843885
+Elk,Montana,3900,5,780,S5,5,Ungulate,327.5,N,46.6843885
+Elk,Montana,6100,5,1220,S5,5,Ungulate,327.5,N,46.6843885
+Elk,Montana,5750,7,821,S5,5,Ungulate,327.5,N,46.6843885
+Elk,Nevada,6250,6,1042,S5,5,Ungulate,327.5,N,38.5035905
+Elk,Nevada,8300,6,1383,S5,5,Ungulate,327.5,N,38.5035905
+Elk,Nevada,6500,6,1083,S5,5,Ungulate,327.5,N,38.5035905
+Elk,New Mexico,4843,5,969,S3,3,Ungulate,327.5,N,34.1669615
+Elk,New Mexico,10000,5,2000,S3,3,Ungulate,327.5,N,34.1669615
+Elk,New Mexico,8950,5,1790,S3,3,Ungulate,327.5,N,34.1669615
+Elk,New Mexico,7000,5,1400,S3,3,Ungulate,327.5,N,34.1669615
+Elk,New Mexico,4900,5,980,S3,3,Ungulate,327.5,N,34.1669615
+Elk,Oregon,4800,5,960,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Oregon,4500,7,643,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Oregon,6000,5,1200,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Oregon,4250,4,1063,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Oregon,6500,5,1300,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Oregon,6372,5,1274,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Oregon,6500,5,1300,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Oregon,5416,5,1083,S5,5,Ungulate,327.5,Y,44.145855
+Elk,Utah,5000,5,1000,S4,4,Ungulate,327.5,N,39.5
+Elk,Utah,3500,5,700,S4,4,Ungulate,327.5,N,39.5
+Elk,Utah,4500,5,900,S4,4,Ungulate,327.5,N,39.5
+Elk,Utah,9000,5,1800,S4,4,Ungulate,327.5,N,39.5
+Elk,Utah,3500,5,700,S4,4,Ungulate,327.5,N,39.5
+Elk,Washington,8500,7,1214,S5,5,Ungulate,327.5,Y,47.275
+Elk,Washington,5500,5.75,957,S5,5,Ungulate,327.5,Y,47.275
+Elk,Washington,3750,5,750,S5,5,Ungulate,327.5,Y,47.275
+Elk,Washington,5000,6,833,S5,5,Ungulate,327.5,Y,47.275
+Elk,Wyoming,6600,7,943,S5,5,Ungulate,327.5,N,43
+Elk,Wyoming,6200,5,1240,S5,5,Ungulate,327.5,N,43
+Elk,Wyoming,5450,6,908,S5,5,Ungulate,327.5,N,43
+Elk,Wyoming,8000,7,1143,S5,5,Ungulate,327.5,N,43
+Elk,Wyoming,7646,7,1092,S5,5,Ungulate,327.5,N,43
