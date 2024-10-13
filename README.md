@@ -4,7 +4,7 @@ A continuación una breve introducción al Trabajo Práctico sobre Redes Neurona
 
 . . . .
 
-**Data Set:** [*Kaggle - Hunt Prices for North American Mammals*](https://www.kaggle.com/datasets/thedevastator/hunt-prices-for-north-american-mammals)
+**Data Set:** [*Kaggle - Students Performance Dataset*](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 **Integrantes:**
 * Álvarez Juan Bautista
