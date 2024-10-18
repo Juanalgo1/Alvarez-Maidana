@@ -7,5 +7,5 @@ A continuación una breve introducción al Trabajo Práctico sobre Redes Neurona
 **Data Set:** [*Kaggle - Students Performance Dataset*](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 **Integrantes:**
-* Álvarez Juan Bautista
+* Alvarez Juan Bautista
 * Maidana Juan Manuel
