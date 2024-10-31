@@ -1,10 +1,17 @@
 # Trabajo Práctico - **Redes Neuronales**
 
-A continuación una breve introducción al Trabajo Práctico sobre Redes Neuronales para la materia de Matemática III.
+## Desarrollo y explicación de redes neuronales. Aplicación de conocimientos. Análisis de base de datos. Comparación con librería de aprendizaje. 
+
+El TP cuenta con:
+-Informe
+-Base de datos
+-Archivo Alvarez-Maidana.ipynb, donde se lleva a cabo la construcción de la red y gráficos.
+-Archivo gráficos.ipynb, dedicado a graficar curvas de aprendizaje
+-Carpeta con ilustraciones relevantes
 
 . . . .
 
-**Data Set:** [*Kaggle - Students Performance Dataset*](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+**Data Set utilizado:** [*Kaggle - Students Performance Dataset*](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 **Integrantes:**
 * Alvarez Juan Bautista
