@@ -1,6 +1,6 @@
 # Trabajo Práctico - **Redes Neuronales**
+#### Desarrollo y explicación de redes neuronales. Aplicación de conocimientos. Análisis de base de datos. Comparación con librería de aprendizaje. 
 
-## Desarrollo y explicación de redes neuronales. Aplicación de conocimientos. Análisis de base de datos. Comparación con librería de aprendizaje. 
 
 El TP cuenta con:
 - Informe
